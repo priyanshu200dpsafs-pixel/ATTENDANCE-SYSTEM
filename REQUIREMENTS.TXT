@@ -5,3 +5,4 @@ pandas
 apscheduler
 tf-keras
 numpy
+gunicorn
