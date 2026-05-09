@@ -1,8 +1,0 @@
-opencv-python-headless
-deepface
-flask
-pandas
-apscheduler
-tf-keras
-numpy
-gunicorn
